@@ -78,6 +78,7 @@ public class Pegawai {
         System.out.println("Nama: " + nama);
         System.out.println("Gaji: $" + gaji);
         System.out.println("Jabatan: " + jabatan);
+        System.out.println("Halo");
     }
 
     public static void main(String[] args) {
